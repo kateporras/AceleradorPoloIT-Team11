@@ -1,0 +1,5 @@
+id,descripcion,M,videoURL
+1,SALUDO,B,./videos/Saludo.mp4
+2,HOLA,B,./videos/Hola.mp4
+3,COMO ESTAS,B,./videos/ComoEstas.mp4
+4,BIEN,B,./videos/Bien.mp4
